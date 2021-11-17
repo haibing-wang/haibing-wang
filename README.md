@@ -1,6 +1,6 @@
 ### Yoo,  I'm Haibing
 
-- 🍻 Junior at 🇨🇳 [UESTC](https://en.uestc.edu.cn/), _BSc in Computer Science_
+- 🍻 Graduate from 🇨🇳 [UESTC](https://en.uestc.edu.cn/), _BSc in Computer Science_
 - ⚡ Golang/ Java / Python.
 - 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
 - ✍️ [Blogger-NO](https://tech)
