@@ -9,6 +9,7 @@
 - ♟ Chinese Chess / Chess 
 - 
 
+![](https://github-readme-stats.vercel.app/api?username=haibing2008&theme=dark)
 # my favorite
 
 
